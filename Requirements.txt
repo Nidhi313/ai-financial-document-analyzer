@@ -1,0 +1,30 @@
+# Streamlit for UI
+streamlit
+
+# Data handling and visualization
+pandas
+altair
+
+# File and system utilities
+# (os, shutil, tempfile are built-in — no need to include)
+
+# ctransformers for quantized LLM inference
+ctransformers
+
+# LangChain components
+langchain
+
+# Chroma vector store
+chromadb
+
+# Hugging Face embeddings
+sentence-transformers
+
+# PyMuPDF for PDF loading
+PyMuPDF
+
+# Unstructured file loading
+unstructured
+
+# If needed for Excel file handling via unstructured
+openpyxl
