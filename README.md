@@ -20,8 +20,6 @@ A privacy-preserving, AI-powered Streamlit application that enables users to upl
 
 ## Getting Started
 
-## How to Run
-
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
