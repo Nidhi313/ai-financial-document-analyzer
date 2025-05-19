@@ -4,11 +4,11 @@ A privacy-preserving, AI-powered Streamlit application that enables users to upl
 
 ## Key Features
 
-- ** Private LLM Chat**: Interact with a locally hosted Mistral 7B quantized model (via `ctransformers`) for general finance queries.
-- ** Document Q&A**: Upload PDFs, Excel files, or TXT documents and ask document-specific questions with AI-generated answers and source traceability.
-- ** Financial Insights**: Extract and summarize key metrics such as **Revenue**, **Net Income**, and **EBITDA** from documents.
-- ** Auto Visualizations**: View basic trend charts using embedded financial data.
-- ** Raw Data Inspection**: Explore how your financial documents are segmented and processed internally.
+- **Private LLM Chat**: Interact with a locally hosted Mistral 7B quantized model (via `ctransformers`) for general finance queries.
+- **Document Q&A**: Upload PDFs, Excel files, or TXT documents and ask document-specific questions with AI-generated answers and source traceability.
+- **Financial Insights**: Extract and summarize key metrics such as **Revenue**, **Net Income**, and **EBITDA** from documents.
+- **Auto Visualizations**: View basic trend charts using embedded financial data.
+- **Raw Data Inspection**: Explore how your financial documents are segmented and processed internally.
 
 ## AI and NLP Techniques Used
 
